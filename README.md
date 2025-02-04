@@ -1,6 +1,6 @@
 # DSA-Tutorials
 Hello Everyone,
-This Repository is for all programmers to access the DSA codes
+This repository provides access to DSA codes for all programmers.
 <br>
 Reference - CodeHelp by Love Babbar
 <br>
